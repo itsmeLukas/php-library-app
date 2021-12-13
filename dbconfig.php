@@ -1,6 +1,6 @@
 <?php
 $host = "localhost";
-$user = "knihovnik";
-$password = "12345";
+$user = "createYourOwnUser";
+$password = "createYourOwnPassword";
 $db = "knihovna";
 ?>
